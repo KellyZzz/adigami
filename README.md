@@ -4,9 +4,9 @@
 Cyrus Ghalambor
 ### Group Member:
 Kelly Zhang  
-Kelvin Man
-Xiaoyu Wen 
-Xiaosong Weng
-Hayden Todd
+Kelvin Man  
+Xiaoyu Wen   
+Xiaosong Weng  
+Hayden Todd  
 
 
