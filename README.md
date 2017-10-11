@@ -1,4 +1,12 @@
-# adigami
-## Project in INF 191A
-## Group Member:
-### Kelly Zhang
+# Adigami
+### INF 191 
+### Sponsor: 
+Cyrus Ghalambor
+### Group Member:
+Kelly Zhang
+Kelvin Man
+Xiaoyu Wen 
+Xiaosong Weng
+Hayden Todd
+
+
