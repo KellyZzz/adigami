@@ -1,4 +1,4 @@
 # adigami
-## INF 191A | ProjectName
+## Project in INF 191A
 ## Group Member:
-### Tianyi Zhang
+### Kelly Zhang
