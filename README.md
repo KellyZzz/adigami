@@ -3,7 +3,7 @@
 ### Sponsor: 
 Cyrus Ghalambor
 ### Group Member:
-Kelly Zhang\s\s
+Kelly Zhang  
 Kelvin Man
 Xiaoyu Wen 
 Xiaosong Weng
